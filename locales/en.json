@@ -1,0 +1,7 @@
+{
+	"error": {
+		"no-canvas": "unable to draw",
+		"no-file": "no file"
+	},
+	"select-file": "Select the step_metrics.csv file"
+}

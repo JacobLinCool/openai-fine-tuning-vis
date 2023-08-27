@@ -1,0 +1,7 @@
+{
+	"error": {
+		"no-canvas": "無法繪圖",
+		"no-file": "沒有檔案"
+	},
+	"select-file": "選擇 step_metrics.csv 檔案"
+}
